@@ -1,0 +1,3 @@
+CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/2TONED_CHAIR.exe
+UA,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/2TONED_UNLOCK_ALL.exe
+AIO,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/2TONED_ALL_IN_ONE.exe
